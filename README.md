@@ -3,6 +3,9 @@
 * 도민이 참여하는, 시민이 참여하는 데이터 참여 공간으로 이 공간이 활용되길 원합니다.
 * 데이터가 주민에게 주는 긍정적인 효과가 어떤 것이 우리가 짐작할 수는 없지만, 이런 데이터가 모여서 어떤 효과 를 발휘하는지 지켜보는 것도 우리에게 큰 학습 포인트가 될 것 같습니다.
 
+## 배포 URL
+* jejudata.com
+
 ## 데이터
 
 * 채팅채널에 있는 데이터 채널에 모아주시면 분석해서 업로드 합니다. 데이터 분석팀에서 스키마 정해서 업로드 및 크롤링을 하면 프론트엔드 팀에서 시각화를 합니다.
@@ -36,9 +39,9 @@
 ### 크롤링, 데이터 생성 팀
     * 시각화 할 필요가 있는 데이터 선별, 데이터 스키마 설정, 데이터에 따른 그래프 지정, 데이터 크롤링 및 데이터 생성
     * 구성원
-        * 신재현(깃헙주소)
-        * 김하연
         * 이인영
+        * 신재현
+        * 김하연
         * 임홍광
         * 정민규
         * 우정균
@@ -74,19 +77,12 @@
 * https://github.com/StopWarKr/stopwar (크롤링 코드)
 * https://github.com/weniv/project_sample_repo (기획 코드)
 
-## URL 구매
-* jejudata.com
-* jejudata.co.kr
-* jejuvis.com
-* evergreenjeju.com
-* evergreenjeju.co.kr
-* jejudatamap.com
-* jejudatamap.co.kr
-* jejuenvmap.com
-* jejuenvmap.co.kr
-* jejuenv.com
-* jejuenv.co.kr
-* ecodatajeju.com
-* ecodatajeju.co.kr
-* jejuecodata.com
-* jejuecodata.co.kr
+## 매주 진행 방식
+* 8월 11일 부터
+    * 매주 팀별 진행사항 발표
+    * 지원이 필요한 부분이 있다면 리소스 마련
+        * 자금
+        * 디자인
+        * 소스코드(막히는 부분)
+* 가장 먼저 회의 해야 하는 팀
+    * 데이터 분석팀
