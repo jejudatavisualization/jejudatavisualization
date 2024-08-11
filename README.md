@@ -45,7 +45,7 @@
         * 임홍광
         * 정민규(cubone0417@gmail.com)
         * 우정균
-        * 김동석
+        * 김동석(bloomingds1@gmail.com)
         * 김진(kimlynnjean@naver.com)
 ### 프론트 팀
     * 생성된 데이터를 시각화
