@@ -47,6 +47,7 @@
         * 우정균
         * 김동석(bloomingds1@gmail.com)
         * 김진(kimlynnjean@naver.com)
+        * 이승민(0283esm@naver.com)
 ### 프론트 팀
     * 생성된 데이터를 시각화
     * 디자인팀이 없으므로 템플릿이나 직접 디자인 한 것으로 가져가야 합니다.
