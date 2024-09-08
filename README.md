@@ -41,7 +41,7 @@
     * 구성원
         * 이인영(2innnnn0@kakao.com)
         * 신재현
-        * 김하연
+        * 김하연(hayeonkimmie@gmail.com)
         * 임홍광
         * 정민규(cubone0417@gmail.com)
         * 우정균
