@@ -3,6 +3,9 @@
 * 도민이 참여하는, 시민이 참여하는 데이터 참여 공간으로 이 공간이 활용되길 원합니다.
 * 데이터가 주민에게 주는 긍정적인 효과가 어떤 것이 우리가 짐작할 수는 없지만, 이런 데이터가 모여서 어떤 효과 를 발휘하는지 지켜보는 것도 우리에게 큰 학습 포인트가 될 것 같습니다.
 
+## 배포 URL
+* [jejudata.com](https://jejudata.com)
+
 ## 데이터
 
 * 채팅채널에 있는 데이터 채널에 모아주시면 분석해서 업로드 합니다. 데이터 분석팀에서 스키마 정해서 업로드 및 크롤링을 하면 프론트엔드 팀에서 시각화를 합니다.
@@ -36,14 +39,15 @@
 ### 크롤링, 데이터 생성 팀
     * 시각화 할 필요가 있는 데이터 선별, 데이터 스키마 설정, 데이터에 따른 그래프 지정, 데이터 크롤링 및 데이터 생성
     * 구성원
-        * 신재현(깃헙주소)
-        * 김하연
-        * 이인영
+        * 이인영(2innnnn0@kakao.com)
+        * 신재현
+        * 김하연(hayeonkimmie@gmail.com)
         * 임홍광
-        * 정민규
+        * 정민규(cubone0417@gmail.com)
         * 우정균
-        * 김동석
-        * 김진
+        * 김동석(bloomingds1@gmail.com)
+        * 김진(kimlynnjean@naver.com)
+        * 이승민(0283esm@naver.com)
 ### 프론트 팀
     * 생성된 데이터를 시각화
     * 디자인팀이 없으므로 템플릿이나 직접 디자인 한 것으로 가져가야 합니다.
@@ -61,6 +65,27 @@
 * 만약 의미있는 결과물이 1기에서 안나올 경우 2기로 넘기는 것을 생각하고 있습니다.
 * 다음 회의까지 팀을 정하는 것을 유보하겠습니다. 미리 참여 의사를 밝혀주셔도 됩니다.
 
+### WBS
+```mermaid
+gantt
+    title 제주 환경 데이터 분석 플랫폼 개발 프로젝트 (7월-9월)
+    dateFormat  YYYY-MM-DD
+    section 프로젝트 준비
+    요구사항 분석 및 설계       :2024-07-03, 40d
+    데이터 수집                 :2024-07-13, 30d
+    section 백엔드 개발
+    데이터베이스 구축           :2024-08-11, 14d
+    API 개발                   :2024-08-11, 14d
+    section 프론트엔드 개발
+    UI 기본 구조 개발           :2024-08-11, 21d
+    데이터 시각화 구현          :2024-08-25, 14d
+    section 통합 및 테스트
+    통합 테스트                 :2024-09-8, 14d
+    section 배포 및 마무리
+    최종 검토 및 배포           :2024-09-22, 7d
+    프로젝트 평가 및 문서화     :2024-09-22, 7d
+```
+
 ## 데이터 큐레이션
 
 코딩은 LLM이 거의 다 합니다. 우리가 어떤 것을 큐레이션 할지 의사결정 하는 것이 가장 큰 부분을 차지합니다. 어떤 데이터를 어떻게 시각화 할지 모두 고민해보시고, 데이터를 찾아봐주세요.
@@ -74,19 +99,12 @@
 * https://github.com/StopWarKr/stopwar (크롤링 코드)
 * https://github.com/weniv/project_sample_repo (기획 코드)
 
-## URL 구매
-* jejudata.com
-* jejudata.co.kr
-* jejuvis.com
-* evergreenjeju.com
-* evergreenjeju.co.kr
-* jejudatamap.com
-* jejudatamap.co.kr
-* jejuenvmap.com
-* jejuenvmap.co.kr
-* jejuenv.com
-* jejuenv.co.kr
-* ecodatajeju.com
-* ecodatajeju.co.kr
-* jejuecodata.com
-* jejuecodata.co.kr
+## 매주 진행 방식
+* 8월 11일 부터
+    * 매주 팀별 진행사항 발표
+    * 지원이 필요한 부분이 있다면 회의에서 위니브로 전달하면 리소스를 마련해 보도록 하겠습니다.
+        * 자금
+        * 디자인
+        * 소스코드(막히는 부분)
+* 가장 먼저 회의 해야 하는 팀
+    * 데이터 분석팀
